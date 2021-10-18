@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Hi, I'm Amar Panjwani. My nickname is Pan
 
 <!--
 **amarpan/amarpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
