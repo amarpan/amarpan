@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Amar Panjwani. You can call me by my nickname, Pan.
-- 🔭 I’m a student at General Assembly's Software Engineering Immersive bootcamp (GA SEI 8/30/21 FT Remote Cohort)
+- 🔭 I’m a General Assembly's SEI bootcamp grad
 - 🌱 I’m currently learning React and the MERN Stack. 
 - 📫 I'm available to talk at: amar.panjwani@gmail.com or https://www.linkedin.com/in/amarpan
 <!-- 👯 I’m looking to collaborate on ... -->
