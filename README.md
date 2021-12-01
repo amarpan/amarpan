@@ -1,4 +1,4 @@
-## 👋🏽 Hi, I'm [Amar](https://www.linkedin.com/in/amarpan) - an Indian-American 🇮🇳 former teacher. 
+## 👋🏽 Hi, I'm [Amar](https://www.linkedin.com/in/amarpan) - an 🇮🇳 Indian-American 🇺🇸 former teacher. 
 - 🌱 I’m currently applying to Technical Writing roles.
 - 🔭 I’m a General Assembly software engineering bootcamp grad with an A.S. in Comp Sci.
 - 👨‍🏫   Check out my tutorials and blog posts on [Medium](https://medium.com/@amarpan)
