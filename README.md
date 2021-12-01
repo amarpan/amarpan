@@ -4,7 +4,7 @@
 - 📫 I'm available to talk at: amar.panjwani@gmail.com or https://www.linkedin.com/in/amarpan
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Tech Stack
 - ✍️   Technical Writing Tools:      		Git | GitHub (obviously) | Markdown | VS Code | Slack | Zoom   
