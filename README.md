@@ -6,7 +6,6 @@
 <!-- 🤔 I’m looking for help with ...
 
 💬 Ask me about ... -->
-:u
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
