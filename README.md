@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Amar Panjwani. You can call me by my nickname, Pan.
-- 🔭 I’m a General Assembly Software Engineering bootcamp grad
-- 🌱 I’m currently learning React and the MERN Stack. 
+- 🔭 I’m a General Assembly Software Engineering bootcamp grad with an A.S. in Comp Sci
+<!-- - 🌱 I’m currently learning React and the MERN Stack.  -->
 - 📫 I'm available to talk at: amar.panjwani@gmail.com or https://www.linkedin.com/in/amarpan
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ...
