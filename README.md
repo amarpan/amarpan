@@ -14,5 +14,3 @@
 - 📋    Databases:                          		MongoDB | PostgreSQL | Mongoose ODM   
 <!--![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
-
-<br />
