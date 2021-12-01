@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Amar, an Indian-American 🇮🇳 former teacher. 
+## 👋🏽 Hi, I'm Amar, an Indian-American 🇮🇳 former teacher. 
 - 🌱 I’m currently applying to Technical Writing roles.
 - 🔭 I’m a General Assembly Software Engineering bootcamp grad with an A.S. in Comp Sci.
 - 📫 I'm available to talk at: amar.panjwani@gmail.com or https://www.linkedin.com/in/amarpan
