@@ -6,7 +6,7 @@
 <!-- 🤔 I’m looking for help with ... -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats)
 
-💬 Ask me about ... -->
+<!--💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
