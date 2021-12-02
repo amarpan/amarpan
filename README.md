@@ -10,7 +10,7 @@
 
 ## My Toolbox 🧰
 - ✍️   Technical Writing Tools:      		 Git | GitHub (obviously) | Markdown | HTML | CSS | VS Code | Slack | Zoom   
-- 💼  Languages:  		Javascript | Python | Java  | C++ |  
+- 💼  Languages:  		Javascript | Python | Java  | C++ | NASM Assembly
 - 🏗️  Frameworks:                       		Node.js | Express | Django | React   
 - 📋    Databases:                          		MongoDB | PostgreSQL | Mongoose ODM   
 <!--![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa) -->
