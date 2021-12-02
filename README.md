@@ -8,7 +8,7 @@
 <!-- 🤔 I’m looking for help with ... -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Tech Stack
+## My Toolbox 🧰
 - ✍️   Technical Writing Tools:      		 Git | GitHub (obviously) | Markdown | VS Code | Slack | Zoom   
 - 💼  Languages:  		Javascript | Python | Java  | C++ | HTML | CSS   
 - 🏗️  Frameworks:                       		Node.js | Express | Django | React   
