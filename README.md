@@ -2,7 +2,7 @@
 - 🌱 I’m currently applying to Technical Writing roles.
 - 🔭 I’m a General Assembly software engineering bootcamp grad with an A.S. in Comp Sci.
 - 👨‍🏫   Check out my tutorials and blog posts on [Medium](https://medium.com/@amarpan)
-- 📫 I'm available to talk via [LinkedIn](https://www.linkedin.com/in/amarpan)  or at amar.panjwani@gmail.com
+- 📫 I'm available to chat via [LinkedIn](https://www.linkedin.com/in/amarpan)  or at amar.panjwani@gmail.com
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
