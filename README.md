@@ -9,8 +9,8 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## My Toolbox 🧰
-- ✍️   Technical Writing Tools:      		 Git | GitHub (obviously) | Markdown | VS Code | Slack | Zoom   
-- 💼  Languages:  		Javascript | Python | Java  | C++ | HTML | CSS   
+- ✍️   Technical Writing Tools:      		 Git | GitHub (obviously) | Markdown | HTML | CSS | VS Code | Slack | Zoom   
+- 💼  Languages:  		Javascript | Python | Java  | C++ |  
 - 🏗️  Frameworks:                       		Node.js | Express | Django | React   
 - 📋    Databases:                          		MongoDB | PostgreSQL | Mongoose ODM   
 <!--![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa) -->
