@@ -1,6 +1,6 @@
 ## 👋🏽 Hi, I'm [Amar](https://www.linkedin.com/in/amarpan) - an Indian-American 🇮🇳 🇺🇸 former high-school teacher. 
-- 🌱 Currently applying to Technical Writing roles.
 - 🔭 General Assembly software engineering bootcamp grad with an A.S. in Comp Sci.
+- 🌱 Currently applying to Technical Writing roles.
 - 🧠  Interested in contributing to open-source documentation, creating browser themes, and developing Linux Mint extensions.
 - 👨‍🏫   Check out my tutorials and blog posts on [Medium](https://medium.com/@amarpan)
 - 📫 Available to chat via [LinkedIn](https://www.linkedin.com/in/amarpan)  or at amar.panjwani@gmail.com
