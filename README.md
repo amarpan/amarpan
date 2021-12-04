@@ -2,7 +2,7 @@
 - 🔭 General Assembly software engineering bootcamp grad with an A.S. in Comp Sci.
 - 🌱 Currently applying to Technical Writing roles.
 - 🧠  Interested in contributing to open-source documentation, creating browser themes, and developing Linux Mint extensions.
-- 👨‍🏫   Check out my technical tutorials written in Markup and my blog posts on [Medium](https://medium.com/@amarpan)
+- 👨‍🏫   Check out my technical tutorial repo READMEs written in Markup and my blog posts on [Medium](https://medium.com/@amarpan)
 - 📫 Available to chat via [LinkedIn](https://www.linkedin.com/in/amarpan)  or at amar.panjwani@gmail.com
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
