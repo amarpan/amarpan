@@ -15,5 +15,6 @@
 - 📋    Databases:                          		MongoDB | PostgreSQL | Mongoose ODM   
 <!--![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpan&layout=compact)](https://github.com/amarpan/)       -->
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarpan/)
+#### Add me on: 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/amarpan/)   
 ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
