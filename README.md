@@ -1,8 +1,9 @@
-## 👋🏽 Hi, I'm [Amar](https://www.linkedin.com/in/amarpan) - an Indian-American 🇮🇳 🇺🇸 former high-school teacher. 
+## 👋🏽 Hi, I'm [Amar](https://www.linkedin.com/in/amarpan) - a Front-End Web Developer & Technical Writer 
+- 🇮🇳 Indian-American :us: former high-school teacher :man_teacher:
 - 🔭 General Assembly software engineering bootcamp grad with an A.S. in Comp Sci.
 - 🌱 Currently applying for Instructional Associate and Technical Writing roles.
-- 🧠  Interested in contributing to open-source documentation, creating browser themes, and developing Linux Mint extensions.
-- 👨‍🏫   Check out my technical tutorial repo READMEs written in Markup and my blog posts on [Medium](https://medium.com/@amarpan)
+- 🧠  Interested in contributing to open-source documentation, creating browser themes, and developing Linux Mint extensions.   
+- :briefcase:    Check out my writing, web dev, and teaching portfolio at [amarpan.github.io](https://amarpan.github.io)
 - 📫 Available to chat via [LinkedIn](https://www.linkedin.com/in/amarpan)  or at amar.panjwani@gmail.com
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
@@ -10,8 +11,9 @@
 
 ## My Toolbox 🧰
 - ✍️   Technical Writing Tools:      		 Git | GitHub (obviously) | Markdown | HTML | CSS | VS Code | Slack | Zoom   
-- 💼  Languages:  		JavaScript | Python | Java  | C | C++ | NASM Assembly
-- 🏗️  Frameworks:                       		Node.js | Express | Django | React   
+- :speaking_head:  Languages:  		JavaScript | Python | Java  | C | C++ | NASM Assembly
+- 🏗️  Web Frameworks:                       		Node.js | Express | Django | React
+- 🌈 Design Frameworks: Semantic UI, Google Materialize   
 - 📋    Databases:                          		MongoDB | PostgreSQL | Mongoose ODM   
 <!--![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpan&layout=compact)](https://github.com/amarpan/)       -->
