@@ -1,4 +1,4 @@
-## 👋🏽 Hi, I'm [Amar](https://www.linkedin.com/in/amarpan) - a Front-End Web Developer & Technical Writer 
+## 👋🏽 Hi, I'm [Amar](https://www.linkedin.com/in/amarpan), a Front-End Web Developer & Technical Writer 
 - 🇮🇳 Indian-American :us: former high-school teacher :man_teacher:
 - 🔭 General Assembly software engineering bootcamp grad with an A.S. in Comp Sci.
 - 🌱 Currently applying for Instructional Associate and Technical Writing roles.
