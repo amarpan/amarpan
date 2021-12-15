@@ -1,4 +1,4 @@
-## Hi, I'm [Amar](https://www.linkedin.com/in/amarpan), a Technical Writer & Front-End Web Developer
+## Hi, I'm Amar from Apple Valley, CA
 <a href="https://amarpan.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=whitelabel=test">
   </a>   
