@@ -5,9 +5,15 @@
 <a href="https://amarpan.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=whitelabel=test">
   </a>   
-  <a href="https://www.linkedin.com/in/amarpan/"><img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href="mailto:amar.panjwani@gmail.com">
+    
+  <a href="https://www.linkedin.com/in/amarpan/">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
+  </a> 
+    
+  <a href="mailto:amar.panjwani@gmail.com">
     <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
   </a>
+    
   <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-Medium-333?style=flat&logo=medium"
   </a>
@@ -24,7 +30,7 @@
 <!-- 🤔 I’m looking for help with ... -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## My Toolbox 🧰
+##  🧰 My Toolbox 🧰
 - Technical Writing Tools:      		![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
@@ -40,8 +46,7 @@
 - Languages:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![](https://img.shields.io/badge/-C++-333?style=flat&logo=c++)
-![](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
 - Web Frameworks:                       		![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
