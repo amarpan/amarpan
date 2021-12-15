@@ -19,7 +19,7 @@
  </a>
 
  
-:india: Indian-American :us: | Former high-school teacher | GA SEI bootcamp grad | A.S. Comp Sci | Apple Valley, CA
+:india: Indian-American :us: | 👨‍🏫 Former high-school teacher 👨‍🏫 | GA SEI bootcamp grad | A.S. Comp Sci | 🍎 Apple Valley, CA 🍎
 </div>
 
 
