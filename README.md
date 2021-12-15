@@ -46,11 +46,13 @@
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-- Design Frameworks: ![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact)
-![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign)  
-- Databases:                          ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+ ![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact)
+![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign) 
+ 
+- Databases | Design:                          ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-333?style=flat&logo=mongoose)
+ | 
 - Others: ![](https://img.shields.io/badge/-Zoom-333?style=flat&logo=zoom)
 ![](https://img.shields.io/badge/-Slack-333?style=flat&logo=slack)
 ![](https://img.shields.io/badge/-Discord-333?style=flat&logo=discord)
