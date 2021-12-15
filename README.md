@@ -17,13 +17,10 @@
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
  </a>
-  
-  ![GitHub followers](https://img.shields.io/github/followers/amarpan?style=social)
 </div>
-
-- Background: :india: Indian-American :us: former high-school teacher :man_teacher:      
-- Location: Apple Valley, CA      
-- Education: General Assembly software engineering bootcamp grad with an A.S. in Comp Sci.        
+ 
+- Background: :india: Indian-American :us: | Former high-school teacher :man_teacher: | GA SEI bootcamp grad | A.S. Comp Sci   
+- Location: Apple Valley, CA             
 - OS: ![](https://img.shields.io/badge/-Linux_Mint-333?style=flat&logo=linuxmint)
 ![](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows)
 <!-- 👯 I’m looking to collaborate on ... -->
@@ -39,15 +36,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
 ![](https://img.shields.io/badge/-Vim-333?style=flat&logo=vim)
    ![](https://img.shields.io/badge/-GNU_bash-333?style=flat&logo=gnubash)
-- Workflow: ![](https://img.shields.io/badge/-Zoom-333?style=flat&logo=zoom)
-![](https://img.shields.io/badge/-Slack-333?style=flat&logo=slack)
-![](https://img.shields.io/badge/-Discord-333?style=flat&logo=discord)
-![](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello)   
-- Languages:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
+ 
+- Languages | Frameworks:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
-- Web Frameworks:                       		![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js)
+![](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus) | ![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
@@ -56,7 +49,11 @@
 - Databases:                          ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-333?style=flat&logo=mongoose)
-- Others: ![](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
+- Others: ![](https://img.shields.io/badge/-Zoom-333?style=flat&logo=zoom)
+![](https://img.shields.io/badge/-Slack-333?style=flat&logo=slack)
+![](https://img.shields.io/badge/-Discord-333?style=flat&logo=discord)
+![](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello)
+ ![](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
 ![](https://img.shields.io/badge/-Replit-333?style=flat&logo=replit)
     ![](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 ![](https://img.shields.io/badge/-JSON-333?style=flat&logo=json)
