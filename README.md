@@ -1,4 +1,5 @@
-## Welcome to my world.
+<h1 align="center">Amar 'Pan' Panjwani</h1>
+<div align="center">
 <a href="https://amarpan.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=whitelabel=test">
   </a>   
@@ -10,6 +11,7 @@
   </a>
   
   ![GitHub followers](https://img.shields.io/github/followers/amarpan?style=social)
+</div>
 
 - Name: Amar Panjwani - aka 'Pan'
 - Background: :india: Indian-American :us: former high-school teacher :man_teacher:
