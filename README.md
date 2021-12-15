@@ -2,8 +2,8 @@
 <a href="https://amarpan.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=whitelabel=test">
   </a>   
-  <a href="https://www.linkedin.com/in/amarpan/"><img src="https://img.shields.io/badge/-+Click to add me on Linkedin-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href="mailto:amar.panjwani@gmail.com">
-    <img src="https://img.shields.io/badge/-amar.panjwani-c14438?style=flat&logo=Gmail&logoColor=white">
+  <a href="https://www.linkedin.com/in/amarpan/"><img src="https://img.shields.io/badge/-linkedin/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white"></a> <a href="mailto:amar.panjwani@gmail.com">
+    <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
   </a>
   <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/amarpan-12100E?style=for-the-badge&logo=medium&logoColor=white">
