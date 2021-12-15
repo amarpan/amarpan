@@ -15,10 +15,7 @@
 - 🇮🇳 Indian-American :us: former high-school teacher :man_teacher:
 - General Assembly software engineering bootcamp grad with an A.S. in Comp Sci.
 - Currently applying for Technical Writing roles.
-- Interested in contributing to open-source documentation, creating browser themes, and developing Linux Mint extensions.   
-- Check out my writing, web dev, and teaching portfolio at [amarpan.github.io](https://amarpan.github.io)
 - Main OS: ![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-- �Available to chat via [LinkedIn](https://www.linkedin.com/in/amarpan)  or at amar.panjwani@gmail.com
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
