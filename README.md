@@ -30,7 +30,5 @@
 - 📋    Databases:                          ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | Mongoose ODM   
 - Others: ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 <!--![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpan&layout=compact)](https://github.com/amarpan/)       -->
-#### Add me on: 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/amarpan/)   
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpan&layout=compact)](https://github.com/amarpan/)       -->  
 ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
