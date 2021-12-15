@@ -17,12 +17,12 @@
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
  </a>
-</div>
+
  
-- Background: :india: Indian-American :us: | Former high-school teacher :man_teacher: | GA SEI bootcamp grad | A.S. Comp Sci   
-- Location: Apple Valley, CA             
-- OS: ![](https://img.shields.io/badge/-Linux_Mint-333?style=flat&logo=linuxmint)
-![](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows)
+:india: Indian-American :us: | Former high-school teacher | GA SEI bootcamp grad | A.S. Comp Sci | Apple Valley, CA
+</div>
+
+
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -36,6 +36,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
 ![](https://img.shields.io/badge/-Vim-333?style=flat&logo=vim)
    ![](https://img.shields.io/badge/-GNU_bash-333?style=flat&logo=gnubash)
+ ![](https://img.shields.io/badge/-Linux_Mint-333?style=flat&logo=linuxmint)
+ ![](https://img.shields.io/badge/-Ubuntu-333?style=flat&logo=ubuntu)
+
  
 - Languages | Frameworks:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
@@ -55,8 +58,8 @@
 ![](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello)
  ![](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
 ![](https://img.shields.io/badge/-Replit-333?style=flat&logo=replit)
+  ![](https://img.shields.io/badge/-Windows-333?style=flat&logo=windows)
     ![](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
-![](https://img.shields.io/badge/-JSON-333?style=flat&logo=json)
 <!--![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpan&layout=compact)](https://github.com/amarpan/)       -->  
 ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
