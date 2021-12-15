@@ -39,20 +39,22 @@
  ![](https://img.shields.io/badge/-Linux_Mint-333?style=flat&logo=linuxmint)
 
  
-- Languages | Frameworks:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
+- Languages | Databases:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus) | ![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js)
+![](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus) |
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![Mongoose](https://img.shields.io/badge/-Mongoose-333?style=flat&logo=mongoose)
+ 
+ - Frameworks: 
+ ![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
  ![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact)
 ![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign) 
  
-- Databases | Design:                          ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![Mongoose](https://img.shields.io/badge/-Mongoose-333?style=flat&logo=mongoose)
- | 
 - Others: ![](https://img.shields.io/badge/-Zoom-333?style=flat&logo=zoom)
 ![](https://img.shields.io/badge/-Slack-333?style=flat&logo=slack)
 ![](https://img.shields.io/badge/-Discord-333?style=flat&logo=discord)
