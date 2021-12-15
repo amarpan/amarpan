@@ -23,11 +23,12 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## My Toolbox 🧰
-- ✍️   Technical Writing Tools:      		 Git | GitHub (obviously) | Markdown | ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) | ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3) | VS Code | Slack | Zoom   
+- ✍️   Technical Writing Tools:      		 Git | GitHub (obviously) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) | ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3) | VS Code | Slack | Zoom   
 - :speaking_head:  Languages:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) | ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) | Java  | C | ![Python](https://img.shields.io/badge/-C-333?style=flat&logo=c)C++ | NASM Assembly
-- 🏗️  Web Frameworks:                       		![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js) | ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express) | ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django) | ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-- 🌈 Design Frameworks: ![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact), Google Materialize   
-- 📋    Databases:                          		![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) | Mongoose ODM   
+- 🏗️  Web Frameworks:                       		![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) | ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+- 🌈 Design Frameworks: ![SemanticUIReact](https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white) ![Materialize](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white)   
+- 📋    Databases:                          ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | Mongoose ODM   
+- Others: ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 <!--![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpan&layout=compact)](https://github.com/amarpan/)       -->
 #### Add me on: 
