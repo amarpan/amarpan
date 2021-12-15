@@ -14,7 +14,6 @@
    
 - 🇮🇳 Indian-American :us: former high-school teacher :man_teacher:
 - General Assembly software engineering bootcamp grad with an A.S. in Comp Sci.
-- Currently applying for Technical Writing roles.
 - Main OS: ![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
