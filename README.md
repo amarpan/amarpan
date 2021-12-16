@@ -1,6 +1,7 @@
 
 <!-- ![](https://img.shields.io/badge/-M-333?style=flat&logo=m) -->
-<h5 align="center">Amar 'Pan' Panjwani</h5>
+<h5 align="center">Amar Panjwani</h5>
+<h6 align="center">'Professor Pan'</h6>
 <div align="center">
  <a href="https://amarpan.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-darkgreen?style=flat&logo=medium"
@@ -18,8 +19,9 @@
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
  </a>
 
+ B.A. English '13 | M.A. Education '15 | A.S. Computer Science '20 | GA Software Engineering Immersive Bootcamp grad '21    
+:india: Indian-American :us: | Former high-school teacher | 🍎 Apple Valley, CA ☀️   
  
-:india: Indian-American :us: | Former high-school teacher | GA SEI bootcamp grad | A.S. Comp Sci | 🍎 Apple Valley, CA ☀️
 </div>
 
 
