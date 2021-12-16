@@ -43,8 +43,9 @@
 ![](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus) |
  ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+ ![Mongoose](https://img.shields.io/badge/-Mongoose-333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![Mongoose](https://img.shields.io/badge/-Mongoose-333?style=flat&logo=mongoose)
+
  
  - Frameworks: 
  ![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js)
