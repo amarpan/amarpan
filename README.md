@@ -49,7 +49,7 @@ Languages | Databases:  		![JavaScript](https://img.shields.io/badge/-JavaScript
 ![](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus) |
  ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
- ![Mongoose](https://img.shields.io/badge/-Mongoose-333?style=flat&logo=mongodb)
+ ![Mongoose ODM](https://img.shields.io/badge/-Mongoose_ODM-333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
  
