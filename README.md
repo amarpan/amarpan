@@ -1,10 +1,11 @@
 
 <!-- ![](https://img.shields.io/badge/-M-333?style=flat&logo=m) -->
-<p align="center"></p>
 <div align="center">
  Amar Panjwani  
  
  __'Professor Pan'__
+ 
+ 
  
  <a href="https://amarpan.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-darkgreen?style=flat&logo=medium"
@@ -21,7 +22,8 @@
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
  </a>
-
+  
+Technical Writer | Front-End Web Developer | Teacher   
  B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI '21    
 :india: Indian-American :us: | Former high-school teacher | 🍎 Apple Valley, CA ☀️   
  
