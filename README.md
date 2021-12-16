@@ -25,7 +25,7 @@
   
 📝Technical Writer | Front-End Web Developer | Professor 👨‍🏫  
 📘 B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI '21 💻    
-:india: Indian-American :us: | Former high-school teacher | 🍎 Apple Valley, CA ☀️   
+:india: Indian-American :us: | Former High-School Teacher | 🍎 Apple Valley, CA ☀️   
  
 </div>
 
