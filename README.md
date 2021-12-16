@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
  </a>
 
- B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI Bootcamp grad '21    
+ B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI '21    
 :india: Indian-American :us: | Former high-school teacher | 🍎 Apple Valley, CA ☀️   
  
 </div>
