@@ -1,7 +1,6 @@
 
 <!-- ![](https://img.shields.io/badge/-M-333?style=flat&logo=m) -->
-<h5 align="center">Amar Panjwani</h5>
-<h6 align="center">'Professor Pan'</h6>
+<p align="center">Amar 'Professor Pan' Panjwani</p>
 <div align="center">
  <a href="https://amarpan.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-darkgreen?style=flat&logo=medium"
