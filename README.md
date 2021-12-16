@@ -23,8 +23,8 @@
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
  </a>
   
-Technical Writer | Front-End Web Developer | Professor  
- B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI '21    
+📝Technical Writer | Front-End Web Developer | Professor 👨‍🏫  
+📘 B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI '21 💻    
 :india: Indian-American :us: | Former high-school teacher | 🍎 Apple Valley, CA ☀️   
  
 </div>
