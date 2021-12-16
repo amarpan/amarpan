@@ -27,13 +27,13 @@
 :india: Indian-American :us: | Former High-School Teacher | 🍎 Apple Valley, CA ☀️     
 📘 B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI Remote Nov '21 💻
  
-</div>
+
 
 
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
- - Technical Writing Tools: ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
+ Technical Writing Tools: ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visualstudio)
@@ -44,7 +44,7 @@
  ![](https://img.shields.io/badge/-Linux_Mint-333?style=flat&logo=linuxmint)
 
  
-- Languages | Databases:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
+Languages | Databases:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus) |
@@ -53,7 +53,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
  
- - Frameworks: 
+ Frameworks: 
  ![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
@@ -61,7 +61,7 @@
  ![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact)
 ![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign) 
  
-- Others: ![](https://img.shields.io/badge/-Zoom-333?style=flat&logo=zoom)
+Others: ![](https://img.shields.io/badge/-Zoom-333?style=flat&logo=zoom)
 ![](https://img.shields.io/badge/-Slack-333?style=flat&logo=slack)
 ![](https://img.shields.io/badge/-Discord-333?style=flat&logo=discord)
 ![](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello)
@@ -73,3 +73,4 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpan&layout=compact)](https://github.com/amarpan/)       -->  
 ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=amarpan) -->
+  </div>
