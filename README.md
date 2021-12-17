@@ -51,10 +51,10 @@
  
 
  
-Languages | Databases:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
+Languages & Databases:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus) |
+![](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
  ![Mongoose ODM](https://img.shields.io/badge/-Mongoose_ODM-333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
