@@ -37,7 +37,9 @@
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
- Technical Writing Tools: ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
+ Technical Writing Tools: 
+![](https://img.shields.io/badge/-Linux_Mint-333?style=flat&logo=linuxmint)
+![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visualstudio)
@@ -45,7 +47,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
 ![](https://img.shields.io/badge/-Vim-333?style=flat&logo=vim)
    ![](https://img.shields.io/badge/-GNU_bash-333?style=flat&logo=gnubash)
- ![](https://img.shields.io/badge/-Linux_Mint-333?style=flat&logo=linuxmint)
+ 
 
  
 Languages | Databases:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
