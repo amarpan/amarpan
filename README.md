@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-darkgreen?style=flat&logo=medium">
  </a>
   
-📝Technical Writer | Full-Stand Web Developer | Professor 👨‍🏫      
+📝Technical Writer | Full-Stack Web Developer | Professor 👨‍🏫      
 :india: Indian-American :us: | Former High-School Teacher | 🍎 Apple Valley, CA ☀️     
 📘 B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI Remote Nov '21 💻
  
