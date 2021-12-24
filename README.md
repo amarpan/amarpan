@@ -11,12 +11,12 @@
     <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
  
- <a href="https://www.github.com/amarpan/" target="_blank">
-      <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
+ <a href="https://www.github.com/panamruth/" target="_blank">
+      <img src="https://img.shields.io/badge/-github.com/panamruth-orange?style=flat&logo=GitHub&logoColor=white">
  </a> 
  
-  <a href="https://amarpan.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-gold?style=flat&logo="
+  <a href="https://panamruth.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio:_panamruth.github.io-gold?style=flat&logo="
  </a>
    
    <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
