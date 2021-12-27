@@ -19,13 +19,13 @@
     <img src="https://img.shields.io/badge/-Portfolio:_panamruth.github.io/portfolio-gold?style=flat&logo="
  </a>
    
-   <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
+   <a href="https://www.linkedin.com/in/panamruth/" target="_blank">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/panamruth-blue?style=flat&logo=Linkedin&logoColor=white">
  </a>    
   
   
- <a href="https://medium.com/@amarpan">
-    <img src="https://img.shields.io/badge/-medium.com/@amarpan-darkgreen?style=flat&logo=medium">
+ <a href="https://medium.com/@panamruth">
+    <img src="https://img.shields.io/badge/-medium.com/@panamruth-darkgreen?style=flat&logo=medium">
  </a>
   
 📝Technical Writer | Full-Stack Web Developer | Professor 👨‍🏫      
