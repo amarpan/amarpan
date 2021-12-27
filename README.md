@@ -30,7 +30,7 @@
   
 📝Technical Writer | Full-Stack Web Developer | Professor 👨‍🏫      
 :india: Indian-American :us: | Former High-School Teacher | 🍎 Apple Valley, CA ☀️     
-📘 B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI Remote Nov '21 💻
+📘 B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI '21 💻
  
 
 
