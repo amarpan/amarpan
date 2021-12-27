@@ -1,7 +1,7 @@
 
 <!-- ![](https://img.shields.io/badge/-M-333?style=flat&logo=m) -->
 <div align="center">
- Pan Amar
+ Pan Amruth Amar
  
  __'Professor Pan'__
  
