@@ -47,7 +47,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
 ![](https://img.shields.io/badge/-Vim-333?style=flat&logo=vim)
-   ![](https://img.shields.io/badge/-GNU_Bash-333?style=flat&logo=gnubash)
+![](https://img.shields.io/badge/-GNU_Bash-333?style=flat&logo=gnubash)
+![](https://img.shields.io/badge/-zShell-333?style=flat&logo=gnubash)
  
 
  
