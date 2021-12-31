@@ -38,7 +38,6 @@
 <!-- 🤔 I’m looking for help with ... -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
  Technical Writing Tools: 
-<!-- ![](https://img.shields.io/badge/-Linux_Mint-333?style=flat&logo=linuxmint) -->
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
