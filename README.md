@@ -16,7 +16,7 @@
  </a> 
  
   <a href="https://panamruth.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo="
+    <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo=GitHub&logoColor=black"
  </a>
    
    <a href="https://www.linkedin.com/in/panamruth/" target="_blank">
