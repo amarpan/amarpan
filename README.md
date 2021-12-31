@@ -3,11 +3,10 @@
 <div align="center">
  Pan Amruth Amar
  
- __'Professor Pan'__
+ __'Professor Pan'__   
+ <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
  
- 
- 
-  <a href="mailto:pan.amruth@gmail.com" target="_blank">
+  <a href="mailto:pan.amruth@gmail.com" target="_blank">   
     <img src="https://img.shields.io/badge/-pan.amruth@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
  
@@ -39,7 +38,7 @@
 <!-- 🤔 I’m looking for help with ... -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
  Technical Writing Tools: 
-![](https://img.shields.io/badge/-Linux_Mint-333?style=flat&logo=linuxmint)
+<!-- ![](https://img.shields.io/badge/-Linux_Mint-333?style=flat&logo=linuxmint) -->
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
