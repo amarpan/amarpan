@@ -47,7 +47,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
 ![](https://img.shields.io/badge/-Vim-333?style=flat&logo=vim)
-   ![](https://img.shields.io/badge/-GNU_bash-333?style=flat&logo=gnubash)
+   ![](https://img.shields.io/badge/-GNU_Bash-333?style=flat&logo=gnubash)
  
 
  
@@ -61,7 +61,7 @@ Languages & Databases:  		![JavaScript](https://img.shields.io/badge/-JavaScript
 
  
  Frameworks: 
- ![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js)
+ ![Node](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
