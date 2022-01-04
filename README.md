@@ -1,10 +1,11 @@
 
 <!-- ![](https://img.shields.io/badge/-M-333?style=flat&logo=m) -->
 <div align="center">
- Pan Amruth Amar
+ Pan Amruth Amar<br>   
  
 <!--  __'Professor Pan'__    -->
- <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
+ 
+ <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"><br>
  
   <a href="mailto:pan.amruth@gmail.com" target="_blank">   
     <img src="https://img.shields.io/badge/-pan.amruth@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
