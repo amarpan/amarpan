@@ -3,7 +3,7 @@
 <div align="center">
  Pan Amruth Amar
  
- __'Professor Pan'__   
+<!--  __'Professor Pan'__    -->
  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
  
   <a href="mailto:pan.amruth@gmail.com" target="_blank">   
