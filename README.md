@@ -7,13 +7,11 @@
  
  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"><br>
  
-  <a href="mailto:pan.amruth@gmail.com" target="_blank">   
-    <img src="https://img.shields.io/badge/-pan.amruth@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
- </a>
+  
  
- <a href="https://www.github.com/panamruth/" target="_blank">
+<!--  <a href="https://www.github.com/panamruth/" target="_blank">
       <img src="https://img.shields.io/badge/-github.com/panamruth-orange?style=flat&logo=GitHub&logoColor=white">
- </a> 
+ </a>  -->
  
   <a href="https://panamruth.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo=GitHub&logoColor=black"
@@ -26,6 +24,9 @@
   
  <a href="https://medium.com/@panamruth">
     <img src="https://img.shields.io/badge/-medium.com/@panamruth-black?style=flat&logo=medium">
+ </a>
+   <a href="mailto:pan.amruth@gmail.com" target="_blank">   
+    <img src="https://img.shields.io/badge/-pan.amruth@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
   
 📝Technical Writer | Full-Stack Web Developer | Professor 👨‍🏫      
