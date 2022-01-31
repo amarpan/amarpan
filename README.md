@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/-pan.amruth@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
   
-📝Technical Writer | Front-End Web Developer | Linux Enthusiast 👨‍🏫      
+📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist:
 :india: Indian-American :us: | Former High-School Teacher | 🍎 Apple Valley, CA ☀️     
 📘 B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI '21 💻
  
