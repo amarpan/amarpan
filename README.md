@@ -1,7 +1,7 @@
 
 <!-- ![](https://img.shields.io/badge/-M-333?style=flat&logo=m) -->
 <div align="center">
- Amar Panjwani<br>   
+ <h4>Amar Panjwani </h4>
  
 <!--  __'Professor Pan'__    -->
  
