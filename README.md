@@ -23,7 +23,7 @@
   
   
  <a href="https://medium.com/@amarpan">
-    <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
+    <img src="https://img.shields.io/badge/-medium.com/@amarpan-purple?style=flat&logo=medium">
  </a>
    <a href="mailto:amar.panjwani@gmail.com" target="_blank">   
     <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
