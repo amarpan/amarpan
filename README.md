@@ -9,24 +9,24 @@
  
   
  
-<!--  <a href="https://www.github.com/panamruth/" target="_blank">
-      <img src="https://img.shields.io/badge/-github.com/panamruth-orange?style=flat&logo=GitHub&logoColor=white">
+<!--  <a href="https://www.github.com/amarpan/" target="_blank">
+      <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
  </a>  -->
  
-  <a href="https://panamruth.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo=GitHub&logoColor=black"
+  <a href="https://amarpan.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=GitHub&logoColor=black"
  </a>
    
-   <a href="https://www.linkedin.com/in/panamruth/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/panamruth-blue?style=flat&logo=Linkedin&logoColor=white">
+   <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
  </a>    
   
   
- <a href="https://medium.com/@panamruth">
-    <img src="https://img.shields.io/badge/-medium.com/@panamruth-black?style=flat&logo=medium">
+ <a href="https://medium.com/@amarpan">
+    <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
  </a>
-   <a href="mailto:pan.amruth@gmail.com" target="_blank">   
-    <img src="https://img.shields.io/badge/-pan.amruth@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
+   <a href="mailto:amar.panjwani@gmail.com" target="_blank">   
+    <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
   
 📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br>
