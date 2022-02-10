@@ -79,6 +79,6 @@ Others: ![](https://img.shields.io/badge/-Zoom-333?style=flat&logo=zoom)
     ![](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 <!--![](https://visitor-badge.glitch.me/badge?page_id=sdkdeepa.sdk.deepa) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpan&layout=compact)](https://github.com/amarpan/)       -->  
-![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan) -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=amarpan) -->
   </div>
