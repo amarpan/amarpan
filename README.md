@@ -1,8 +1,11 @@
 
 <!-- ![](https://img.shields.io/badge/-M-333?style=flat&logo=m) -->
 <div align="center">
- <h4>Amar Panjwani </h4>
  
+ <h6 align="center">
+   <a href="https://www.linkedin.com/in/amarpan/">Amar Panjwani
+      </a><br></a>
+ </h6>
 <!--  __'Professor Pan'__    -->
  
 <!--  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"><br> -->
@@ -13,21 +16,27 @@
       <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
  </a>  -->
  
-  <a href="https://amarpan.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=GitHub&logoColor=black"
+
+
+<div align="center">
+ <a hreqf="https://amarpan.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=github">
  </a>
-   
-   <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
+    
+ <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
- </a>    
-  
-  
+ </a> 
+    
+ 
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-purple?style=flat&logo=medium">
  </a>
-   <a href="mailto:amar.panjwani@gmail.com" target="_blank">   
-    <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
+ 
+ <a href="mailto:amarpan.us@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-amarpan.us@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
+ 
+ 
   
 📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br>
 :india: Indian-American :us: | High-School Teacher | 🍎 Apple Valley, CA ☀️     
@@ -39,7 +48,7 @@
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
- Technical Writing Tools: 
+<!-- Technical Writing Tools: -->
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
@@ -52,7 +61,9 @@
  
 
  
-Languages & Databases:  		![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
+ <!-- Languages & Databases: --> 		
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
@@ -61,7 +72,7 @@ Languages & Databases:  		![JavaScript](https://img.shields.io/badge/-JavaScript
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
  
- Frameworks: 
+ <!-- Frameworks: -->
  ![Node](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
@@ -69,7 +80,9 @@ Languages & Databases:  		![JavaScript](https://img.shields.io/badge/-JavaScript
  ![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact)
 ![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign) 
  
-Others: ![](https://img.shields.io/badge/-Zoom-333?style=flat&logo=zoom)
+<!-- Others: --> 
+
+![](https://img.shields.io/badge/-Zoom-333?style=flat&logo=zoom)
 ![](https://img.shields.io/badge/-Slack-333?style=flat&logo=slack)
 ![](https://img.shields.io/badge/-Discord-333?style=flat&logo=discord)
 ![](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello)
