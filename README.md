@@ -19,7 +19,7 @@
 
 
 <div align="center">
- <a hreqf="https://amarpan.github.io/portfolio" target="_blank">
+ <a href="https://amarpan.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=github">
  </a>
     
