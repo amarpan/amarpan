@@ -41,7 +41,7 @@
  
   
 <!-- 📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br> -->
- Instructional Associate at General Assembly | ADHD Life Coach | Curriculum Technical Writer at Linode
+ Instructional Associate at General Assembly | ADHD Life Coach at Pan You Can Coaching | Curriculum Technical Writer at Linode <br>
 :india: Indian-American :us: | Professor | ☀ Portland, OR, USA ☀     
 📘 B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI '21 💻
  
