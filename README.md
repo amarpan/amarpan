@@ -40,7 +40,8 @@
  
  
   
-📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br>
+<!-- 📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br> -->
+ Instructional Associate at General Assembly | ADHD Life Coach | Curriculum Technical Writer at Linode
 :india: Indian-American :us: | Professor | ☀ Portland, OR, USA ☀     
 📘 B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI '21 💻
  
