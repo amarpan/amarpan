@@ -2,10 +2,10 @@
 <!-- ![](https://img.shields.io/badge/-M-333?style=flat&logo=m) -->
 <div align="center">
  
- <h6 align="center">
+ <h1 align="center">
    <a href="https://www.linkedin.com/in/amarpan/">Amar Amruth Pan, M.Ed.
       </a><br></a>
- </h6>
+ </h1>
 <!--  __'Professor Pan'__    -->
  
 <!--  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"><br> -->
