@@ -41,7 +41,7 @@
  
   
 📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br>
-:india: Indian-American :us: | High-School Teacher | 🍎 Apple Valley, CA ☀️     
+:india: Indian-American :us: | Professor | ☀ Portland, OR, USA ☀     
 📘 B.A. English '13 | M.A. Education '15 | A.S. Comp Sci '21 | GA SEI '21 💻
  
 
