@@ -3,7 +3,7 @@
 <div align="center">
  
  <h6 align="center">
-   <a href="https://www.linkedin.com/in/amarpan/">Amar Panjwani
+   <a href="https://www.linkedin.com/in/amarpan/">Amar Amruth Pan, M.Ed.
       </a><br></a>
  </h6>
 <!--  __'Professor Pan'__    -->
