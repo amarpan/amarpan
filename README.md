@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/-amarpan.us@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
  
- [![stars - amarpan](https://img.shields.io/github/stars/amarpan/amarpan?style=social)](https://github.com/amarpan/amarpan) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
+![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
  
  
   
