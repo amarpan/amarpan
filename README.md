@@ -53,7 +53,7 @@
  </a> 
 
  <a href="https://www.instagram.com/amarpan396/" target="_blank">
-      <img src="https://img.shields.io/badge/-instagram.com/amarpan.us-hotpink?style=flat&logo=Instagram&logoColor=white">
+      <img src="https://img.shields.io/badge/-instagram.com/amarpan396-hotpink?style=flat&logo=Instagram&logoColor=white">
  </a> 
     
  
