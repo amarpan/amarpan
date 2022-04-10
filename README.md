@@ -37,8 +37,8 @@
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-purple?style=flat&logo=medium">
  </a>
 
- <a href="mailto:amar.panjwani@generalassemb.ly" target="_blank">
-    <img src="https://img.shields.io/badge/-amar.panjwani@generalassemb.ly-c14438?style=flat&logo=Gmail&logoColor=white">
+ <a href="mailto:amarpan.us@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-amarpan.us@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
 
  <br>
@@ -52,7 +52,7 @@
       <img src="https://img.shields.io/badge/-facebook.com/amarpan396-darkblue?style=flat&logo=Facebook&logoColor=white">
  </a> 
 
- <a href="https://www.instagram.com/amarpan.us/" target="_blank">
+ <a href="https://www.instagram.com/amarpan396/" target="_blank">
       <img src="https://img.shields.io/badge/-instagram.com/amarpan.us-hotpink?style=flat&logo=Instagram&logoColor=white">
  </a> 
     
