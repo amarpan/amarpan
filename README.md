@@ -52,9 +52,9 @@
  
   
 <!-- 📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br> -->
- 🌈 Front-End Specialist 🌈 ✦ 💾 Linux Enthusiast 💾 ✦ 🧑‍🤝‍🧑 LinkedIn Networking Guru 🧑‍🤝‍🧑 <br>
-:india: Indian-American 🇮🇳 ✦ 🍎 Former High-School Teacher 🍎 ✦ 😎 SoCal Native 😎    
-📘 B.A. English '13 📘 ✦ 👨‍🏫 M.A. Education '15 👨‍🏫 ✦ 🖥️ A.S. Comp Sci '21 🖥️ ✦ 🏫 Web Dev Bootcamp '21 🏫
+ 🌈 Front-End Specialist 🌈 💾 Linux Enthusiast 💾 🧑‍🤝‍🧑 LinkedIn Networking Guru 🧑‍🤝‍🧑 <br>
+:india: Indian-American 🇮🇳 🍎 Former High-School Teacher 🍎 😎 SoCal Native 😎    
+📘 B.A. English '13 📘 👨‍🏫 M.A. Education '15 👨‍🏫 🖥️ A.S. Comp Sci '21 🖥️ 🏫 Web Dev Bootcamp '21 🏫
  
 
 
