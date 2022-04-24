@@ -41,12 +41,12 @@
  <a href="https://twitter.com/profpan396" target="_blank">
       <img src="https://img.shields.io/badge/-twitter.com/in/prof396-skyblue?style=flat&logo=Twitter&logoColor=black">
  </a>
-
+![](https://visitor-badge.glitch.me/badge?page_id=profpan396.profpan396)
  
     
  </div>
  
-![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
+
  
  
   
