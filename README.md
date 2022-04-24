@@ -62,7 +62,7 @@
 <!-- 🤔 I’m looking for help with ... -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpan)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- Technical Writing Tools: -->
-<!-- ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
+<!-- 
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visualstudio) -->
@@ -70,18 +70,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-
- ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-
- 
- <!-- Frameworks: -->
- ![Node](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
-<!-- ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
- ![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact) -->
-![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign) 
+![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign)
+![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
  
 <!-- Others: --> 
 
