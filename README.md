@@ -67,13 +67,14 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visualstudio) -->
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
  
+ <!-- ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3) -->
 <!-- Others: --> 
 
 <!-- ![](https://img.shields.io/badge/-Zoom-333?style=flat&logo=zoom)
