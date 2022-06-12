@@ -77,7 +77,7 @@
 
 <br>
 
-GA SEI Nov '21 ⭐ A.S. Comp Sci - Victor Valley College 
+GA SEI Nov '21 ⭐ A.S. Comp Sci
  
  <!-- ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3) -->
 <!-- Others: --> 
