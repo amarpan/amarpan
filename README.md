@@ -77,6 +77,9 @@
 
 <br>
 
+https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white
+
+
 GA SEI Nov '21 ⭐ A.S. Comp Sci
  
  <!-- ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3) -->
