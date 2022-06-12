@@ -72,6 +72,9 @@ GA SEI '21 ⭐ A.S. Comp Sci '21 ⭐ M.A. Education '15 ⭐ B.A. English '13
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+
 ![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 
