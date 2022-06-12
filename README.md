@@ -56,7 +56,7 @@
  
   
 <!-- 📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br> -->
- I'm a former teacher and current technical writer who enjoys writing GitHub-based tutorials that benefit coding bootcamp students and grads. 
+ I'm a former teacher and current technical writer who enjoys writing GitHub-based tutorials that benefit coding bootcamp students.
  
 
 
