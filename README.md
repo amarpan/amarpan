@@ -68,7 +68,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
  
