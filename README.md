@@ -58,7 +58,7 @@
 <!-- 📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br> -->
  I'm a former teacher and current technical writer who enjoys writing GitHub-based tutorials that benefit coding bootcamp students.
  
-
+GA SEI Nov '21 ⭐ A.S. Comp Sci ⭐ B.A. English ⭐ M.A. Education
 
 
 <!-- 👯 I’m looking to collaborate on ... -->
@@ -75,12 +75,10 @@
 ![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 
-<br>
 
-https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white
+![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
 
-GA SEI Nov '21 ⭐ A.S. Comp Sci
  
  <!-- ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3) -->
 <!-- Others: --> 
