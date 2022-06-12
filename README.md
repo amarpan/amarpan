@@ -3,7 +3,7 @@
 <div align="center">
  
  <h1 align="center">
-   <a href="https://www.linkedin.com/in/profpan396/">Professor Pan, M.Ed.
+   <a href="https://www.linkedin.com/in/profpan396/">Professor Pan
       </a><br></a>
  </h1>
 <!--  __'Professor Pan'__    -->
@@ -74,6 +74,10 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
+
+<br>
+
+GA SEI Nov '21 ⭐ A.S. Comp Sci - Victor Valley College 
  
  <!-- ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3) -->
 <!-- Others: --> 
