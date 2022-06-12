@@ -58,7 +58,7 @@
 <!-- 📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br> -->
  I'm a former teacher and current technical writer who enjoys writing tutorials that benefit coding bootcamp students.
  
-GA SEI '21 ⭐ A.S. Comp Sci '21 ⭐ M.A. Education '15 ⭐ B.A. English '13
+**GA SEI '21 🌟 A.S. Comp Sci '21 🌟 M.A. Education '15 🌟 B.A. English '13**
 
 
 <!-- 👯 I’m looking to collaborate on ... -->
