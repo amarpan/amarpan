@@ -76,8 +76,8 @@
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
 
-![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign)
-![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
+<!-- ![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign)
+![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown) -->
 
 
 ![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
