@@ -47,7 +47,8 @@
  </a>
  
 ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
- 
+ <br>
+ <a href="https://discord.com/users/profpan396#4625" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
     
  </div>
  
