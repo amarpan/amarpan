@@ -3,7 +3,7 @@
 <div align="center">
  
  <h1 align="center">
-   <a href="https://www.linkedin.com/in/profpan396/">Professor Pan
+   <a href="https://www.linkedin.com/in/profpan396/">Amar Pan
       </a><br></a>
  </h1>
 <!--  __'Professor Pan'__    -->
