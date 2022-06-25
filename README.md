@@ -20,9 +20,9 @@
 
 
 <div align="center">
- <a href="https://profpan396.github.io/portfolio" target="_blank">
+ <a href="https://profpan396.github.io" target="_blank">
         <img
-          src="https://img.shields.io/badge/-profpan396.github.io/portfolio-magenta?style=flat&logo=Blackberry&logoColor=black">
+          src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
       </a>
  <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
