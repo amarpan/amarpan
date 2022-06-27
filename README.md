@@ -102,3 +102,9 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan) -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=amarpan) -->
   </div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profpan396&theme=vue-dark&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  
+
