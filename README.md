@@ -102,7 +102,7 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan) -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=amarpan) -->
   </div>
-  
+
   [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profpan396&theme=vue-dark&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats) [![Activity](https://github-readme-stats.vercel.app/api?username=profpan396&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)
 
   
