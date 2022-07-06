@@ -101,8 +101,19 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan) -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=amarpan) -->
   </div>
+  
+  <p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=profpan396&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&border_color=whitec&show_icons=true"/> &nbsp;
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=profpan396&layout=compact&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&show_icons=true"/>
+</p>
 
-  [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profpan396&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Activity](https://github-readme-stats.vercel.app/api?username=profpan396&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)<img src="https://activity-graph.herokuapp.com/graph?username=profpan396&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+ <center>
+ 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)<img src="https://activity-graph.herokuapp.com/graph?username=profpan396&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+ 
+ </center>
+
+ 
 
   
   
