@@ -71,10 +71,10 @@
 ![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visualstudio) -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buymeacoffee)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 
 <!-- ![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown) -->
