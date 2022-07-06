@@ -9,8 +9,9 @@
  
  **I'm a technical writer and teacher who writes web dev, linux, and programming tutorials.**
  <br>
- 🌍 Portland, Oregon, USA <br>
- :pencil2: Currenly writing: github-profile-tutorial
+ 
+ :pencil2: Currenly writing: github-profile-tutorial <br>
+ 🌍 Portland, Oregon, USA 
  
 <!--  __'Professor Pan'__    -->
  
