@@ -10,7 +10,7 @@
  **I'm a technical writer and teacher who writes web dev, linux, and programming tutorials.**
  <br>
  
- :pencil2: Currenly writing: github-profile-tutorial <br>
+ :pencil2: Currently writing: github-profile-tutorial <br>
  🌍 Portland, Oregon, USA 
  
 <!--  __'Professor Pan'__    -->
@@ -107,11 +107,14 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=profpan396&layout=compact&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&show_icons=true"/>
 </p>
 
- <center>
  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)<img src="https://activity-graph.herokuapp.com/graph?username=profpan396&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=profpan396&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
  
- </center>
+ <cente>
+ 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)
+  
+  </center>
 
  
 
