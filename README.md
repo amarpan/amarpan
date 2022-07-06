@@ -3,9 +3,11 @@
 <div align="center">
  
  <h1 align="center">
-   <a href="https://www.linkedin.com/in/profpan396/">Amar Pan
-      </a><br></a>
+   Namaste, I'm <a href="https://www.linkedin.com/in/profpan396/">Amar Pan
+      </a></a> 👋
  </h1>
+ 
+ **I'm a technical writer and teacher who writes web dev, linux, and programming tutorials.**
 <!--  __'Professor Pan'__    -->
  
 <!--  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"><br> -->
@@ -24,31 +26,23 @@
         <img
           src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
       </a>
- <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
- </a> 
- <a href="https://medium.com/@profpan396">
-    <img src="https://img.shields.io/badge/-medium.com/@profpan396-pink?style=flat&logo=medium&logoColor=black">
- </a>
-<br>
+      <br>
+
  <a href="https://www.github.com/profpan396/" target="_blank">
         <img
-          src="https://img.shields.io/badge/-github.com/profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black">
+          src="https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black">
       </a>
 
- 
-  
- <a href="https://twitter.com/profpan396" target="_blank">
-      <img src="https://img.shields.io/badge/-twitter.com/in/profpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
- </a>
- <br>
- <a href="mailto:profpan396@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-profpan396@gmail.com-aqua?style=flat&logo=Gmail&logoColor=black">
+ <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
+      <img src="https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
+ </a> 
+  <a href="https://medium.com/@profpan396">
+    <img src="https://img.shields.io/badge/-@profpan396-pink?style=flat&logo=medium&logoColor=black">
  </a>
  
 ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
  <br>
- <a href="https://discord.com/users/chillylips76#4625" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<!--  <a href="https://discord.com/users/chillylips76#4625" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  -->
     
  </div>
  
@@ -57,7 +51,7 @@
  
   
 <!-- 📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br> -->
- I'm a teacher and technical writer who writes programming tutorials.
+
  
 **GA SEI '21 🌟 A.S. Comp Sci '21 🌟 M.A. Education '15 🌟 B.A. English '13**
 
