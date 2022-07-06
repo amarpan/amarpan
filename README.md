@@ -99,7 +99,7 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=amarpan) -->
   </div>
 
-  [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profpan396&theme=vue-dark&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats) [![Activity](https://github-readme-stats.vercel.app/api?username=profpan396&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)
+  [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profpan396&theme=vue-dark&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats) [![Activity](https://github-readme-stats.vercel.app/api?username=profpan396&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&custom_title=Activity)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)<img src="https://activity-graph.herokuapp.com/graph?username=profpan396&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
   
   
