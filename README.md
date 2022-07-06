@@ -8,6 +8,8 @@
  </h1>
  
  **I'm a technical writer and teacher who writes web dev, linux, and programming tutorials.**
+ <br>
+ 🌍 Portland, Oregon, USA <br>
 <!--  __'Professor Pan'__    -->
  
 <!--  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"><br> -->
