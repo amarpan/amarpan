@@ -7,7 +7,7 @@
       </a></a> 👋
  </h1>
  
- **I'm an East Indian-American technical writer and teacher who writes web dev, linux, and programming tutorials.**
+ **I'm an East Indian-American :india: technical writer and teacher who writes web dev, linux, and programming tutorials.**
  <br>
  
  :pencil2: Currently writing: github-profile-tutorial <br>
