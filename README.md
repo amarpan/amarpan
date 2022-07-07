@@ -26,7 +26,7 @@
 
 
 
-<div align="center">
+<center>
  <a href="https://profpan396.github.io" target="_blank">
         <img
           src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
@@ -49,7 +49,7 @@
  <br>
 <!--  <a href="https://discord.com/users/chillylips76#4625" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  -->
     
- </div>
+ </center>
  
 
  
