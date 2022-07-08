@@ -105,16 +105,15 @@
   <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=profpan396&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&border_color=whitec&show_icons=true"/> &nbsp;
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=profpan396&layout=compact&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&show_icons=true"/>
+  <a href="https://github.com/profpan396/how-to-create-a-github-profile"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-create-a-github-profile&theme=vue-dark" /></a> 
 </p>
+
+
 
  
   <img src="https://activity-graph.herokuapp.com/graph?username=profpan396&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
  
- <cente>
- 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)
-  
-  </center>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)
 
  
 
