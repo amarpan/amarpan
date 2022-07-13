@@ -3,7 +3,7 @@
 <div align="center">
  
  <h1 align="center">
-   Namaste, I'm <a href="https://www.linkedin.com/in/profpan396/">Amar Pan
+   Namaste, I'm <a href="https://www.linkedin.com/in/profpan396/">Professor Pan
       </a></a> 👋
  </h1>
  
