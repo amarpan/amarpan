@@ -4,7 +4,7 @@
  
  <h1 align="center">
    Namaste, I'm <a href="https://www.linkedin.com/in/profpan396/">Professor Pan
-      </a></a> 👋
+      </a></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  </h1>
  
  **I'm an Indian-American :india: technical writer and teacher who writes web dev, linux, and programming tutorials.**
