@@ -7,7 +7,7 @@
       </a></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  </h1>
  
- **I'm an :india: Indian-American STEM teacher and technical writer who writes web dev tutorials.**
+ **I'm an :india: Indian-American teacher and technical writer who writes web dev tutorials.**
  <br>
  
  :pencil2: Currently writing: materialize-css-github-pages-portfolio-tutorial <br>
