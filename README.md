@@ -3,11 +3,11 @@
 <div align="center">
  
  <h1 align="center">
-   Namaste, I'm <a href="https://www.linkedin.com/in/profpan396/">Professor Pan
+   Namaste, I'm <a href="https://www.linkedin.com/in/profpan396/">Professor Pan</a>
       🙏
  </h1>
  
- **I'm an :india: Indian-American teacher and technical writer who writes web dev tutorials.**
+ **I'm an :india: Indian-American teacher and technical writer who writes tutorials for GA SEI coding bootcamp students.**
  <br>
  
  :pencil2: Currently writing: materialize-css-github-pages-portfolio-tutorial <br>
