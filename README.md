@@ -7,7 +7,7 @@
       🙏
  </h1>
  
- **I'm an :india: Indian-American teacher and technical writer who writes tutorials for GA SEI coding bootcamp students.**
+ **I'm an :india: Indian-American teacher and technical writer who writes tutorials for GA SEI students.**
  <br>
  
  :pencil2: Currently writing: materialize-css-github-pages-portfolio-tutorial <br>
