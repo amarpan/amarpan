@@ -53,7 +53,7 @@
  
  | Languages  | Frameworks & Libraries  | Databases| Tools |
 | -------- | --------- | -- | -- |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buymeacoffee)![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buymeacoffee)![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)<br>![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)  
  
 
  
