@@ -51,6 +51,10 @@
     
  </center>
  
+ | Languages  | Frameworks & Libraries  | Databases| Tools |
+| -------- | --------- | -- | -- |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buymeacoffee)![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  
+ 
 
  
  
@@ -70,10 +74,7 @@
 ![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visualstudio) -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buymeacoffee)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+
 
 <!-- ![](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown) -->
@@ -105,8 +106,7 @@
   <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=profpan396&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&border_color=whitec&show_icons=true"/> &nbsp;
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=profpan396&layout=compact&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&show_icons=true"/>
-  <a href="https://github.com/profpan396/
-how-to-use-the-vim-text-editor-in-linux "><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-use-the-vim-text-editor-in-linux&theme=vue-dark" /></a> <a href="https://github.com/profpan396/how-to-write-a-GA-SEI-README"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-write-a-GA-SEI-README&theme=vue-dark" /></a> 
+  <a href="https://github.com/profpan396/how-to-create-a-github-profile"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-create-a-github-profile&theme=vue-dark" /></a> <a href="https://github.com/profpan396/how-to-write-a-GA-SEI-README"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-write-a-GA-SEI-README&theme=vue-dark" /></a> 
 </p>
 
 
