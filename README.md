@@ -7,10 +7,10 @@
       🙏
  </h1>
  
- **I'm an :india: Indian-American teacher and technical writer who writes tutorials for coding bootcamp students.**
+ **I write Linux tutorials.**
  <br>
  
- :pencil2: Currently writing: materialize-css-github-pages-portfolio-tutorial <br>
+ <!-- :pencil2: Currently writing: materialize-css-github-pages-portfolio-tutorial <br> -->
  🌍 Portland, Oregon, USA 
  
 <!--  __'Professor Pan'__    -->
