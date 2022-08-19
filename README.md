@@ -7,7 +7,7 @@
       🙏
  </h1>
  
- **I write Linux tutorials.**
+ **I write tutorials for coding bootcamp students.**
  <br>
  
  <!-- :pencil2: Currently writing: materialize-css-github-pages-portfolio-tutorial <br> -->
