@@ -10,8 +10,11 @@
  **I write tutorials for coding bootcamp students.**
  <br>
  
- <!-- :pencil2: Currently writing: materialize-css-github-pages-portfolio-tutorial <br> -->
- 🌍 Portland, Oregon, USA 
+ <!-- :pencil2: Currently writing: How to Change Your Z Shell Theme <br> --> 
+ 
+ :india: Indian-American
+ <br>
+ 🌍 Portland, Oregon, USA
  
 <!--  __'Professor Pan'__    -->
  
