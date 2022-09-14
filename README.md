@@ -54,6 +54,8 @@
     
  </center>
  
+ <img src="https://activity-graph.herokuapp.com/graph?username=profpan396&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+ 
  | Languages  | Frameworks & Libraries  | Databases| Tools |
 | -------- | --------- | -- | -- |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buymeacoffee)![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)<br>![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) | ![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)<br>![Materialize CSS](https://img.shields.io/badge/-Materialize-05122A?style=flat&logo=materialdesign)![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-05122A?style=flat&logo=semanticuireact) | ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) |![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)![Github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)![VSCode](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudio)![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)<br>![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)
@@ -117,7 +119,7 @@ how-to-use-the-vim-text-editor"><img align="center" style="margin:20px" src="htt
 
 
  
-  <img src="https://activity-graph.herokuapp.com/graph?username=profpan396&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)
 
