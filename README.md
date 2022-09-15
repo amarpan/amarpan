@@ -112,8 +112,7 @@
   <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=profpan396&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&border_color=whitec&show_icons=true"/> &nbsp;
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=profpan396&layout=compact&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&show_icons=true"/>
-  <a href="https://github.com/profpan396/
-how-to-use-the-vim-text-editor"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-use-the-vim-text-editor&theme=vue-dark" /></a> <a href="https://github.com/profpan396/how-to-write-a-coding-bootcamp-README"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-write-a-GA-SEI-README&theme=vue-dark" /></a> 
+  <a href="https://github.com/profpan396/how-to-create-a-github-profile"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-create-a-github-profile&theme=vue-dark" /></a> <a href="https://github.com/profpan396/how-to-write-a-coding-bootcamp-README"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-write-a-coding-bootcamp-README&theme=vue-dark" /></a> 
 </p>
 
 
