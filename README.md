@@ -44,9 +44,10 @@
  <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
       <img src="https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
  </a> 
-  <a href="https://medium.com/@profpan396">
-    <img src="https://img.shields.io/badge/-@profpan396-pink?style=flat&logo=medium&logoColor=black">
- </a>
+  <a href="https://twitter.com/profpan396" target="_blank">
+  <img src="https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
+</a>
+
  
 ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
  <br>
