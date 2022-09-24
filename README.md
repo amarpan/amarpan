@@ -3,11 +3,10 @@
 <div align="center">
  
  <h1 align="center">
-   Namaste, I'm <a href="https://www.linkedin.com/in/profpan396/">Professor Pan</a>
-      🙏
+   Namaste 🙏
  </h1>
  
- **I write tutorials for coding bootcamp students.**
+ **I write tutorials and documentation for new developers.**
  <br>
  
  <!-- :pencil2: Currently writing: How to Change Your Z Shell Theme <br> --> 
