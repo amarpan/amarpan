@@ -6,7 +6,7 @@
    Namaste 🙏
  </h1>
  
- **I write tutorials and documentation for new developers.**
+ **I write tutorials for coding bootcamp students.**
  <br>
  
  <!-- :pencil2: Currently writing: How to Change Your Z Shell Theme <br> --> 
