@@ -2,9 +2,11 @@
 <!-- ![](https://img.shields.io/badge/-M-333?style=flat&logo=m) -->
 <div align="center">
  
- <h1 align="center">
-   Namaste 🙏
- </h1>
+ <div align="center">
+ 
+ # Namaste, I'm [Professor Pan](https://www.linkedin.com/in/profpan396/) 🙏
+ 
+ </div>
  
  **I write tutorials for coding bootcamp students.**
  <br>
