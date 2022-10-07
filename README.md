@@ -70,8 +70,9 @@
   
 <!-- 📝Technical Writer | Front-End Web Developer | Linux Enthusiast :technologist: <br> -->
 
- 
-**GA SEI '21 🌟 A.S. Comp Sci '21 🌟 M.A. Education '15 🌟 B.A. English '13**
+**General Assembly Coding Bootcamp '21**
+
+**A.S. Computer Science '21 🌟 M.Ed. Curriculum Design '15 🌟 B.A. English '13**
 
 
 <!-- 👯 I’m looking to collaborate on ... -->
