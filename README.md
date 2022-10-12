@@ -30,32 +30,18 @@
 
 
 
-<center>
- <a href="https://profpan396.github.io" target="_blank">
-        <img
-          src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
-      </a>
-      <br>
+<div id="socialbuttons" align="center">
 
- <a href="https://www.github.com/profpan396/" target="_blank">
-        <img
-          src="https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black">
-      </a>
- <a href="https://twitter.com/profpan396" target="_blank">
-  <img src="https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
-</a>
-
- <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
-      <img src="https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
- </a> 
-  
-
+  [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black)](https://profpan396.github.io)
+  <br>
+  [![GitHub Badge](https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://www.github.com/profpan396/)
+  [![Twitter Badge](https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/profpan396)
+  [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
+  <br>
+  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-linkedin)
+  <br>
  
-![](https://visitor-badge.glitch.me/badge?page_id=amarpan.amarpan)
- <br>
-<!--  <a href="https://discord.com/users/chillylips76#4625" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  -->
-    
- </center>
+</div>
  
  
  
