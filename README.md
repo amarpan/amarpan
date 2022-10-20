@@ -8,10 +8,7 @@
  
  </div>
  
- **I write tutorials for coding bootcamp students.**
- <br>
- 
- <!-- :pencil2: Currently writing: How to Change Your Z Shell Theme <br> --> 
+ **I write tutorials for new developers.**
  
  :india: Indian-American
  <br>
