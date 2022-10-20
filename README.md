@@ -4,7 +4,7 @@
  
  <div align="center">
  
- # Namaste, I'm [Professor Pan](https://www.linkedin.com/in/profpan396/) 🙏
+ # Amar Pan
  
  </div>
  
