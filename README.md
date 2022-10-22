@@ -33,7 +33,7 @@
   <br>
   [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
   <br>
-  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-linkedin)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.profpan396)
   <br>
  
 </div>
