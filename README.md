@@ -8,7 +8,7 @@
  
  </div>
  
- **I write tutorials for new developers.**
+ **I write programming tutorials and software documentation.**
  
  :india: Indian-American
  <br>
