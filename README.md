@@ -109,7 +109,7 @@
  
  </a> <a href="https://github.com/profpan396/how-to-use-the-vim-text-editor"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-use-the-vim-text-editor&theme=vue-dark" /></a> 
   
-  <a href="https://github.com/profpan396/how-to-write-a-coding-bootcamp-README"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-write-a-coding-bootcamp-README&theme=vue-dark" />
+<!--  <a href="https://github.com/profpan396/how-to-write-a-coding-bootcamp-README"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=profpan396&repo=how-to-write-a-coding-bootcamp-README&theme=vue-dark" /> -->
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=profpan396&theme=vue-dark)](https://git.io/streak-stats)
 
