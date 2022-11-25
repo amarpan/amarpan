@@ -10,9 +10,7 @@
  
  **I write programming tutorials and software documentation.**
  
- :india: Indian-American
- <br>
- 🌍 Portland, Oregon, USA
+ 🌍 Los Angeles, California, USA
  
 <!--  __'Professor Pan'__    -->
  
