@@ -8,10 +8,6 @@
  
  </div>
  
- **I write programming tutorials and software documentation.**
- 
- 🌍 Los Angeles, California, USA
- 
 <!--  __'Professor Pan'__    -->
  
 <!--  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"><br> -->
