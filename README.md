@@ -25,7 +25,7 @@
 
   [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=)](https://profpan396.github.io)
   <br>
-  [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
+  [![LinkedIn Badge](https://img.shields.io/badge/-@amarpan-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/amarpan/)
   <br>
   ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.profpan396)
   <br>
