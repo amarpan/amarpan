@@ -4,7 +4,7 @@
  
  <div align="center">
  
- # Amar Pan
+ # Amar Panjwani
  
  </div>
  
