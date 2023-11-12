@@ -23,11 +23,11 @@
 
 <div id="socialbuttons" align="center">
 
-  [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=)](https://profpan396.github.io)
+  [![Portfolio Badge](https://img.shields.io/badge/-amarpan.github.io-magenta?style=flat&logo=)](https://amarpan.github.io)
   <br>
   [![LinkedIn Badge](https://img.shields.io/badge/-@amarpan-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/amarpan/)
   <br>
-  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.profpan396)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=amarpan.amarpan)
   <br>
  
 </div>
