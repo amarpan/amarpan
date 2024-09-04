@@ -95,6 +95,9 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amarpan&layout=compact&title_color=FFFF00&icon_color=FFFF00&text_color=00BFFF&bg_color=191970&show_icons=true"/>
   
   <div align="center">
+
+  <a href="https://github.com/amarpan/how-to-write-a-README"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=amarpan&repo=how-to-write-a-README&theme=vue-dark" /></a> 
+</p>
   
    <a href="https://github.com/amarpan/how-to-install-and-configure-zshell"><img align="center" style="margin:20px" src="https://github-readme-stats.vercel.app/api/pin/?username=amarpan&repo=how-to-install-and-configure-zshell&theme=vue-dark" /></a> 
 </p>
